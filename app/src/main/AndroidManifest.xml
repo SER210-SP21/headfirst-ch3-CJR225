@@ -11,7 +11,7 @@
         android:theme="@style/Theme.MyMessenger" >
         <activity
             android:name=".ReceiveMessageActivity"
-            android:exported="false" />
+             />
         <activity
             android:name=".CreateMessageActivity"
             android:exported="true" >
